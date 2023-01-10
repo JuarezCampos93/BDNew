@@ -97,7 +97,7 @@
                     <br> </br>
                     <input type="submit" align="left" name="enviar" id="enviar" class="button">
                     <input align="center" type="reset" name="redefinir" id="redefinir" class="button">
-                    <button align="right"> Consultar</button>
+                    <button align="right" name="consultar" id="consultar"> Consultar</button>
 
 
                 </fieldset>
